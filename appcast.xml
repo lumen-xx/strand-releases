@@ -3,6 +3,15 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
 --><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
   <channel>
     <item>
+      <title>Strand 0.4.0</title>
+      <pubDate>Fri, 09 Oct 2026 14:07:52 GMT</pubDate>
+      <sparkle:version>29</sparkle:version>
+      <sparkle:shortVersionString>0.4.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <sparkle:channel>preview</sparkle:channel>
+      <enclosure url="https://github.com/lumen-xx/strand-releases/releases/download/v0.4.0/Strand-0.4.0.zip" length="7074871" type="application/octet-stream" sparkle:edSignature="3zi/9nKppXhGDwtlV4xylKkJjo72Prs3VbSxas/7suttCDEzQnqCX1zbVkKKhs4CVwCZTdhBQR3EeSxlrDLkBA==" sparkle:os="macos"></enclosure>
+    </item>
+    <item>
       <title>Strand 0.3.13</title>
       <pubDate>Fri, 09 Oct 2026 11:26:58 GMT</pubDate>
       <sparkle:version>28</sparkle:version>
@@ -257,6 +266,6 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <title>Strand updates</title>
   </channel>
 </rss><!-- sparkle-signatures:
-edSignature: lsLfLEgi/OBHXTexNVjppnHBOoHRoziniOZ5tf34V86A0k9fkIil8COiJm09bOinODx3OlRd90Ona0YgkpvxAg==
-length: 18567
+edSignature: I5XQsU8XgAZmykN6tRdWAYn7fY7MsbAvtmQaMi0GJbjBHyBO3/HA5YrrNl//q70Log85S251vurbw4Vmd2OSAQ==
+length: 19214
 -->
