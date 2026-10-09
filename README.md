@@ -1,6 +1,6 @@
 # Strand
 
-A small menu bar inspector for your cables, chargers and network. Read-only, everything stays on your Mac.
+A small menu bar inspector for your cables, chargers and network. Everything stays on your Mac.
 
 ## Install
 
